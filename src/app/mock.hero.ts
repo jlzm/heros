@@ -17,4 +17,4 @@ export const HEROES: Hero[] = [
         id: 3,
         name: 'miaomiao'
     },
-]
+];
